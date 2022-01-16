@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manic-codeminer
+- 👋 Hi, I’m manic-codeminer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning through The Odin Project
 
